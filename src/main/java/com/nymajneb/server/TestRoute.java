@@ -1,4 +1,4 @@
-package com.efluid.server;
+package com.nymajneb.server;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

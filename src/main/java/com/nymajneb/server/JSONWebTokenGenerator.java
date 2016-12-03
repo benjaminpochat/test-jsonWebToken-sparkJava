@@ -1,4 +1,4 @@
-package com.efluid.server;
+package com.nymajneb.server;
 
 import java.util.*;
 
